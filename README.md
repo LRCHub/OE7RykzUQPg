@@ -1,0 +1,116 @@
+# XG – MASCARA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ha!
+XG
+Ladies you ready?
+Hey, hi, how you do?
+Gonna tell em baby how we do
+XG cute and nice
+But we don’t ever let you
+mess up twice
+If he ever hit you
+with the lies (yeah)
+Better never hit him
+with the likes (oh no)
+Yeah if he ever ever
+made you cry
+Made you cry, I got advice
+Baby girl don’t you ever be
+wasting your good energy (ha~)
+He ain’t even worth it
+No he don’t deserve it
+What goes around
+comes back around
+And when it do better fix
+your crown so
+When he comes knocking
+What you gonna do? (ooh)
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Tell him no no not today (yup)
+Boy you gonna get it get it!
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Ladies what we gonna say?
+I’ll never let another boy
+ruin my mascara
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess
+with my mascara (UGH)
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess with my mascara
+Ooh yeah mascara gang
+Young wild don’t play
+your games
+Dump u like a suplex
+Skrrt on the coupé
+I'ma be like chop chop chop
+gotta jet
+Go girl shimmy like I wanna
+Go girl u know u a stunner
+Go girl show em how to come up
+Cry over what? who you?
+Sayonara (Git)
+Baby girl don’t you ever be
+wasting your good energy (ha~)
+He ain’t even worth it
+No he don’t deserve it
+What goes around comes
+back around
+And when it do better fix
+your crown so
+When he comes knocking
+What you gonna do? (ooh)
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Tell him no no not today (yup)
+Boy you gonna get it get it!
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Ladies what we gonna say?
+I’ll never let another boy
+ruin my mascara
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess
+with my mascara (UGH)
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess
+with my mascara (UGH)
+And when I find me another baby
+Who treats this lady good
+mmhmm (when I, when I do)
+You’re gonna cry me
+a river baby
+But I won’t waste
+another single minute on you
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Tell him no no not today (yup)
+Boy you gonna get it get it!
+Are you gonna let him pay? (no)
+Are you gonna let him stay? (no)
+Ladies what we gonna say?
+I’ll never let another boy
+ruin my mascara
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess
+with my mascara (UGH)
+This my party I can cry
+when I want to
+Cry when I want to
+Don’t mess
+with my mascara (UGH)
+```
