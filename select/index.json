@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "MASCARA",
+  "base_artist": "XG",
+  "createdAt": "2026-02-13T04:47:58.762392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Λvθn™ Nitemare Liquid Mascara",
+      "artist": "Nmesh feat. 회사AUTO",
+      "has_synced": false,
+      "path": "select/01_ΛvθnTM_Nitemare_Liquid_Mascara_Nmesh_feat._회사AUTO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ΛVΘN™ NiteMare Liquid Mascara (feat. 회사AUTO)",
+      "artist": "Nmesh",
+      "has_synced": false,
+      "path": "select/02_ΛVΘNTM_NiteMare_Liquid_Mascara_(feat._회사AUTO)_Nmesh.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mascara",
+      "artist": "Lost Outrider feat. Anita Kyoda",
+      "has_synced": true,
+      "path": "select/03_Mascara_Lost_Outrider_feat._Anita_Kyoda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mascara",
+      "artist": "Lost Outrider",
+      "has_synced": true,
+      "path": "select/04_Mascara_Lost_Outrider.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mascara",
+      "artist": "John Frusciante",
+      "has_synced": true,
+      "path": "select/05_Mascara_John_Frusciante.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bleeding Mascara",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/06_Bleeding_Mascara_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mascara",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/07_Mascara_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Mascara",
+      "artist": "The Replacements",
+      "has_synced": false,
+      "path": "select/08_Little_Mascara_The_Replacements.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Waterproof Mascara",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/09_Waterproof_Mascara_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coule mascara",
+      "artist": "Hoshi",
+      "has_synced": true,
+      "path": "select/10_Coule_mascara_Hoshi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Máscara De La Muerte Roja",
+      "artist": "Opera Magna",
+      "has_synced": true,
+      "path": "select/11_La_Máscara_De_La_Muerte_Roja_Opera_Magna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Máscara de Seducción",
+      "artist": "Stravaganzza",
+      "has_synced": true,
+      "path": "select/12_Máscara_de_Seducción_Stravaganzza.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Quítate La Máscara",
+      "artist": "Rigo Tovar",
+      "has_synced": false,
+      "path": "select/13_Quítate_La_Máscara_Rigo_Tovar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Run Mascara Run",
+      "artist": "The Raveonettes",
+      "has_synced": true,
+      "path": "select/14_Run_Mascara_Run_The_Raveonettes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bleeding Mascara",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/15_Bleeding_Mascara_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bleeding Mascara",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/16_Bleeding_Mascara_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mascara",
+      "artist": "Killing Heidi",
+      "has_synced": true,
+      "path": "select/17_Mascara_Killing_Heidi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Black Mascara.",
+      "artist": "RAYE",
+      "has_synced": true,
+      "path": "select/18_Black_Mascara._RAYE.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Black Mascara",
+      "artist": "RAYE",
+      "has_synced": true,
+      "path": "select/19_Black_Mascara_RAYE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MASCARA",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_MASCARA_XG.txt"
+    }
+  ]
+}
